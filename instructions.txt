@@ -1,0 +1,14 @@
+Instructions to rub app locally
+
+1. open command prompt from the directory and type " npm i "
+2. then go to server folder and enter the following command in command line "npm i"
+		after installing the packages type in the command to
+		1.run the server
+			" npm run dev "
+		2.run test
+			"npm test"
+3. Then navigate to bookofolder for front end code in the command line of the project 
+		then enter ng server -o
+
+URL for API documentation is 
+https://documenter.getpostman.com/view/11021849/2s9YJc1NfJ
